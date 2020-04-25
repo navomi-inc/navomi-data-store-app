@@ -11,7 +11,7 @@ git clone https://github.com/navomi-inc/navomi-data-store-app.git
 cd navomi-data-store-app
 npm install
 ```
->>> This version of NDS will only connect to a local instance of Redis running on port 6379 <<<
+**This version of NDS will only connect to a local instance of Redis running on port 6379.***
 
 To launch NDS
 
